@@ -9,7 +9,7 @@
 <body>
 	<h1>git test</h1>
 	<div class="article">
-		<h2>문단</h2>
+		<h2>문다ansdkasdkaksdjaksdj</h2>
 	</div>
 </body>
 </html>
